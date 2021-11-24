@@ -1,6 +1,6 @@
 # Markdown Language =>
 
-**It consists of basics for markdown language for GIT**
+**It consists of basics for markdown language code for GIT documentation**
 
 ### Heading :
 `# Heading`<br>
